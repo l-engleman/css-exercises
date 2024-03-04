@@ -1,0 +1,18 @@
+.odd {
+    background-color: hsl(351, 79%, 78%);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+#number2 {
+    color: hsl(240, 90%, 62%);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: hsl(120, 88%, 62%);
+    font-weight: 900;
+}
